@@ -10,11 +10,11 @@
 
 **Today's Progress:**
 
-- I started working on a Typescript CLI tutorial in preparation for a series of challenges issued by someone I follow on
+- I started working on a Typescript CLI tutorial in preparation for a series of challenges issued by someone I follow on LinkedIn.
 
 **Thoughts:**
 
-- I started working on a Typescript CLI tutorial in preparation for a series of challenges issued by someone I follow on LinkedIn. Had a bit of trouble getting the node-ts package installed and playing properly with the CLI tool I was writing.
+- Had a bit of trouble getting the node-ts package installed and playing properly with the CLI tool I was writing. 
 
 **Resources used:**
 
