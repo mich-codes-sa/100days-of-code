@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 11, 2023, Thursday
+### Day 2: May 11, 2023, Thursday
 
 **What I did at work:**
 
