@@ -16,7 +16,7 @@
 
 - The design of my portfolio is really great, and seeing it fully implemented inspired me to continue working on it, because it'll be super impressive once it's done.
 - I'm still doing the course in audit mode, so I don't have full access to the course, but I'd like to possibly apply for financial aid, because paying for things in dollars is prohibitively expensive.
-- Once I've finished working on this version, I'd like to create a similar project using the t3 stack.
+- Once I've finished working on this version of the TDD habit tracker/to do list, I'd like to create a similar project using the t3 stack.
 
 **Resources used:**
 
